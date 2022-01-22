@@ -9,7 +9,7 @@ I am Bsc Computer science student and freelancer
 - 🤔 I’m looking for help with opensource contribution
 - 💬 Ask me about anything
 - 📫 How to reach me: muhammedjahsid@gmail.com
-- 😄 Pronouns: jahsid
+- 😄 Personal website: https://jahsid.github.io/muhammed-Jahsid/
 - Experience programming in C, C++, Java and Python.
 - Experience working with Unix/Linux, Windows environments, distributed systems,information retrieval and TCP/IP.
 - ⚡ Fun fact:
