@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Muhammed Jahsid P
 
-I'm a **Software Developer** and **MCA student** with a knack for solving problems and building dynamic web and mobile applications. With hands-on experience in full-stack development and a passion for learning new technologies, I'm constantly expanding my knowledge and skill set.
+I'm a **Software Developer** and **MCA graduate** with a knack for solving problems and building dynamic web and mobile applications. With hands-on experience in full-stack development and a passion for learning new technologies, I'm constantly expanding my knowledge and skill set.
 
 ---
 
