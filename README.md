@@ -43,6 +43,7 @@ I'm always up for a tech chat, collaboration, or new opportunities!
 > 🔍 *Open to roles in India, UAE, Europe, and remote-first teams around the world.*
 
 ---
+
 ## 📊 GitHub Stats
 
 ![Muhammed Jahsid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahsid&show_icons=true&theme=radical&hide_rank=true&hide=contribs)
@@ -69,12 +70,6 @@ I'm always up for a tech chat, collaboration, or new opportunities!
 
 ## 📈 GitHub Metrics
 
-<img src="https://raw.githubusercontent.com/jahsid/jahsid/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
-
----
-
-## 📈 GitHub Metrics
-
-<img src="https://raw.githubusercontent.com/jahsid/jahsid/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+<img src="https://raw.githubusercontent.com/jahsid/jahsid/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 
