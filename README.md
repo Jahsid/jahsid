@@ -1,18 +1,16 @@
-# Hi there! 👋 I'm Muhammed Jahsid P
+<h1 align="center">Hey there 👋, I'm Muhammed Jahsid</h1>
 
-I'm a **Software Developer** and **MCA graduate** with a knack for solving problems and building dynamic web and mobile applications. With hands-on experience in full-stack development and a passion for learning new technologies, I'm constantly expanding my knowledge and skill set.
+<p align="center">
+  <em>Full Stack JavaScript Developer • Builder of Web Things • Curious Learner</em>
+</p>
 
 ---
 
-## 🌟 About Me
-- 🔭 Currently working as a **Software Developer** at **Codescribo Technologies Pvt Ltd** (Remote).
-- 🌱 Mastering **Mobile App Development** alongside my web development journey.
-- 👯 Open to collaborating on **Node.js** and **React** projects.
-- 🤔 Looking for opportunities in **Open-Source Contributions** and **Data Science Projects**.
-- 💬 Let's talk about **full-stack development**, **software engineering**, or **data science**!
-- 📫 How to reach me: **jahsid.me@gmail.com**
-- 🌍 Connect with me: [LinkedIn](https://www.linkedin.com/in/muhammed-jahsid) | [GitHub](https://github.com/Jahsid)
-- ☎️ Available for **Remote** and **On-site Opportunities**.
+### 👨‍💻 About Me
+
+I'm a passionate Full Stack JavaScript Developer who loves crafting scalable web apps, solving real-world problems, and collaborating on meaningful projects. Whether it's building UI in React, handling APIs in Node.js, or deploying apps on AWS – I’m always excited to ship clean, reliable code.
+
+> “Code is poetry, and I enjoy writing it at 2 AM with a cup of coffee ☕”
 
 ---
 
@@ -26,7 +24,24 @@ I'm a **Software Developer** and **MCA graduate** with a knack for solving probl
 **Programming Languages**: Python, C, Java, PHP  
 **Data Science & ML**: OpenGL, Hadoop, NumPy, Matplotlib, Pandas, Scikit-learn, TensorFlow
 
+### 🤝 Collaboration & Open Source
+
+I enjoy collaborating on full-stack projects, participating in hackathons, and contributing to open-source communities. I believe in continuous learning and love sharing what I know and learning from others.
+
+- 💬 Let's pair on a problem, review code, or brainstorm product ideas
+- 🌍 Open to freelance, full-time, or remote opportunities
+
 ---
 
-## ⚡ Fun Fact
-- I'm a night owl 🦉 and do my best work when the world is asleep!
+### 📬 Let's Connect!
+
+I'm always up for a tech chat, collaboration, or new opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/muhammed-jahsid)  
+📧 jahsid.me@gmail.com
+
+> 🔍 *Open to roles in India, Dubai, Europe, and remote-first teams around the world.*
+
+---
+
+![Jahsid's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahsid&show_icons=true&theme=radical)
