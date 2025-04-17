@@ -71,3 +71,10 @@ I'm always up for a tech chat, collaboration, or new opportunities!
 
 <img src="https://raw.githubusercontent.com/jahsid/jahsid/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
 
+---
+
+## 📈 GitHub Metrics
+
+<img src="https://raw.githubusercontent.com/jahsid/jahsid/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+
+
