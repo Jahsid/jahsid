@@ -40,7 +40,7 @@ I'm always up for a tech chat, collaboration, or new opportunities!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/muhammed-jahsid)  
 📧 jahsid.me@gmail.com
 
-> 🔍 *Open to roles in India, Dubai, Europe, and remote-first teams around the world.*
+> 🔍 *Open to roles in India, UAE, Europe, and remote-first teams around the world.*
 
 ---
 
